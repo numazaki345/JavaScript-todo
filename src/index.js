@@ -6,6 +6,7 @@ const onClickAdd = () => {
 
   createTncompleteList(inputText);
 };
+a;
 
 const deleteFromeIncompleteList = (terget) => {
   document.getElementById("incomplete-list").removeChild(terget);
